@@ -19,7 +19,7 @@
   <a href="#-key-features">Key Features</a> •
   <a href="#-system-architecture--design-patterns">Architecture</a> •
   <a href="#-financial-mathematics--quantitative-modeling">Financial Math</a> •
-  <a href="#-listed-equities-universe">Market Assets</a> •
+  <a href="#-workstation--interface-tour">Workstation Tour</a> •
   <a href="#-quick-start--installation">Quick Start</a> •
   <a href="#-automated-testing--verification">Testing</a> •
   <a href="#-author--license">License</a>
@@ -42,7 +42,6 @@
   - [3. Weighted-Average Cost Basis (WACB)](#3-weighted-average-cost-basis-wacb)
   - [4. Realized vs. Unrealized Profit & Loss (P/L)](#4-realized-vs-unrealized-profit--loss-pl)
   - [5. Return on Investment (ROI)](#5-return-on-investment-roi)
-- [Listed Equities Universe](#-listed-equities-universe)
 - [Workstation & Interface Tour](#-workstation--interface-tour)
   - [1. Modern Desktop GUI Workstation (Default)](#1-modern-desktop-gui-workstation-default)
   - [2. Interactive Headless Terminal Console (CLI Mode)](#2-interactive-headless-terminal-console-cli-mode)
@@ -248,30 +247,6 @@ Tracks aggregate performance against initial capital:
 $$\text{ROI} = \left( \frac{\text{Net Worth} - \text{Initial Deposit}}{\text{Initial Deposit}} \right) \times 100\%$$
 
 Where $\text{Net Worth} = \text{Liquid Cash Balance} + \sum_{i} (Q_i \times P_{\text{spot}, i})$.
-
----
-
-## 📊 Listed Equities Universe
-
-The exchange comes seeded with 15 large-cap equities representing diverse market sectors, volatility ratings, and beta sensitivities:
-
-| Ticker | Company Name | Sector | Spot Price | Beta ($\beta$) | Volatility ($\sigma$) | Market Profile |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| `AAPL` | Apple Inc. | Technology | $224.50 | 1.15 | 1.6% | Mega-cap Consumer Tech & Ecosystem |
-| `MSFT` | Microsoft Corp. | Technology | $432.10 | 1.10 | 1.4% | Enterprise Software & Cloud Infrastructure |
-| `GOOGL`| Alphabet Inc. | Technology | $178.40 | 1.12 | 1.7% | Digital Advertising & AI Platforms |
-| `META` | Meta Platforms Inc. | Technology | $515.20 | 1.35 | 2.2% | Social Media & VR Growth |
-| `NVDA` | NVIDIA Corporation | Semiconductors | $119.80 | 1.95 | 3.2% | AI Acceleration & High-Beta Semiconductor |
-| `TSLA` | Tesla Inc. | Automotive | $210.60 | 2.10 | 3.8% | Autonomous Driving & High-Beta EV Growth |
-| `JPM`  | JPMorgan Chase & Co. | Financials | $212.30 | 0.95 | 1.2% | Universal Banking & Treasury Market Leader |
-| `GS`   | Goldman Sachs Group | Financials | $485.60 | 1.15 | 1.5% | Investment Banking & Capital Markets |
-| `V`    | Visa Inc. | Financials | $268.90 | 0.90 | 1.1% | Global Transaction Processing & Payments |
-| `LLY`  | Eli Lilly and Co. | Healthcare | $945.80 | 0.65 | 1.5% | Biopharmaceuticals & GLP-1 Market Leader |
-| `JNJ`  | Johnson & Johnson | Healthcare | $162.30 | 0.55 | 0.8% | Defensive Healthcare & Medical Devices |
-| `AMZN` | Amazon.com Inc. | Consumer Staples | $186.25 | 1.25 | 1.9% | E-Commerce Retail & AWS Cloud Services |
-| `WMT`  | Walmart Inc. | Consumer Staples | $68.50 | 0.50 | 0.9% | Low-Beta Defensive Grocery & Omnichannel |
-| `COST` | Costco Wholesale | Consumer Staples | $885.20 | 0.75 | 1.1% | Membership Retail & Consistent Cash Flows |
-| `XOM`  | Exxon Mobil Corp. | Energy | $114.50 | 0.85 | 1.6% | Integrated Oil, Gas & Commodity Cyclical |
 
 ---
 
