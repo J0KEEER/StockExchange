@@ -1,0 +1,260 @@
+{
+  "docs/member-search-index.js": {
+    "mtime": 1789304933.7035403,
+    "seen": 1789304960.76302,
+    "ast_hash": "0f7dfbd76401045813ec0a3a313e9db3",
+    "semantic_hash": "0f7dfbd76401045813ec0a3a313e9db3"
+  },
+  "docs/module-search-index.js": {
+    "mtime": 1789304933.7029614,
+    "seen": 1789304960.7630222,
+    "ast_hash": "a33da0f469acbd03f77bf407bac505f5",
+    "semantic_hash": "a33da0f469acbd03f77bf407bac505f5"
+  },
+  "docs/package-search-index.js": {
+    "mtime": 1789304933.703104,
+    "seen": 1789304960.7630239,
+    "ast_hash": "98938dd0650cd013b23c07af2911b0a2",
+    "semantic_hash": "98938dd0650cd013b23c07af2911b0a2"
+  },
+  "docs/script-files/jquery-3.7.1.min.js": {
+    "mtime": 1789304933.7296202,
+    "seen": 1789304960.7630239,
+    "ast_hash": "2c872dbe60f4ba70fb85356113d8b35e",
+    "semantic_hash": "2c872dbe60f4ba70fb85356113d8b35e"
+  },
+  "docs/script-files/jquery-ui.min.js": {
+    "mtime": 1789304933.7298129,
+    "seen": 1789304960.7630248,
+    "ast_hash": "a443ef25e4d347d30d3222a401f9ae54",
+    "semantic_hash": "a443ef25e4d347d30d3222a401f9ae54"
+  },
+  "docs/script-files/script.js": {
+    "mtime": 1789304933.7275336,
+    "seen": 1789304960.763026,
+    "ast_hash": "069838cdcd1183ad4417249447b42f02",
+    "semantic_hash": "069838cdcd1183ad4417249447b42f02"
+  },
+  "docs/script-files/search-page.js": {
+    "mtime": 1789304933.7290294,
+    "seen": 1789304960.763027,
+    "ast_hash": "ae29549462ec4b849ed9533a77e98b28",
+    "semantic_hash": "ae29549462ec4b849ed9533a77e98b28"
+  },
+  "docs/script-files/search.js": {
+    "mtime": 1789304933.7287674,
+    "seen": 1789304960.763027,
+    "ast_hash": "b76ee27964d775a397857893898e17a3",
+    "semantic_hash": "b76ee27964d775a397857893898e17a3"
+  },
+  "docs/tag-search-index.js": {
+    "mtime": 1789304933.703676,
+    "seen": 1789304960.763028,
+    "ast_hash": "1fdf087cf6974ceb3aca4a34204e6637",
+    "semantic_hash": "1fdf087cf6974ceb3aca4a34204e6637"
+  },
+  "docs/type-search-index.js": {
+    "mtime": 1789304933.7032492,
+    "seen": 1789304960.763028,
+    "ast_hash": "964d22f0175179a3106eace759a90220",
+    "semantic_hash": "964d22f0175179a3106eace759a90220"
+  },
+  "src/main/java/com/exchange/Main.java": {
+    "mtime": 1789303939.7276878,
+    "seen": 1789304266.83835,
+    "ast_hash": "f27596a72ab14f282e4f498347a0a723",
+    "semantic_hash": "f27596a72ab14f282e4f498347a0a723"
+  },
+  "src/main/java/com/exchange/engine/TradingEngine.java": {
+    "mtime": 1789303268.3251414,
+    "seen": 1789303443.716867,
+    "ast_hash": "6be55e849fbb657e4f0c5bf070c7b97d",
+    "semantic_hash": "6be55e849fbb657e4f0c5bf070c7b97d"
+  },
+  "src/main/java/com/exchange/engine/TradingService.java": {
+    "mtime": 1789303261.3923209,
+    "seen": 1789303443.7168682,
+    "ast_hash": "ffff10b223ca92cc572dee65aae7d07d",
+    "semantic_hash": "ffff10b223ca92cc572dee65aae7d07d"
+  },
+  "src/main/java/com/exchange/exception/InsufficientFundsException.java": {
+    "mtime": 1789303373.7224033,
+    "seen": 1789303443.7168682,
+    "ast_hash": "efb0c2d13ca64edfefb8315228f808ea",
+    "semantic_hash": "efb0c2d13ca64edfefb8315228f808ea"
+  },
+  "src/main/java/com/exchange/exception/InsufficientSharesException.java": {
+    "mtime": 1789303379.3362837,
+    "seen": 1789303443.716869,
+    "ast_hash": "ed2c5f5e0696f7f81d4292b16d3255e7",
+    "semantic_hash": "ed2c5f5e0696f7f81d4292b16d3255e7"
+  },
+  "src/main/java/com/exchange/exception/InvalidStockSymbolException.java": {
+    "mtime": 1789303384.5704734,
+    "seen": 1789303443.716869,
+    "ast_hash": "8558b6be9f548286468719722b546331",
+    "semantic_hash": "8558b6be9f548286468719722b546331"
+  },
+  "src/main/java/com/exchange/exception/PersistenceException.java": {
+    "mtime": 1789303015.6232665,
+    "seen": 1789303443.7168698,
+    "ast_hash": "28418704fe07a5afa96c732fee1fe6ad",
+    "semantic_hash": "28418704fe07a5afa96c732fee1fe6ad"
+  },
+  "src/main/java/com/exchange/exception/TradingException.java": {
+    "mtime": 1789302959.84847,
+    "seen": 1789303443.716871,
+    "ast_hash": "6e2ee96e48119e8ec4237c4d451baa88",
+    "semantic_hash": "6e2ee96e48119e8ec4237c4d451baa88"
+  },
+  "src/main/java/com/exchange/market/Market.java": {
+    "mtime": 1789304612.4485424,
+    "seen": 1789304960.76327,
+    "ast_hash": "10dbd7a6580d597b3a6ed428031644f0",
+    "semantic_hash": "10dbd7a6580d597b3a6ed428031644f0"
+  },
+  "src/main/java/com/exchange/market/MarketObserver.java": {
+    "mtime": 1789303243.0642843,
+    "seen": 1789303443.716872,
+    "ast_hash": "f92191b25f53978788a8704f4b0a4a25",
+    "semantic_hash": "f92191b25f53978788a8704f4b0a4a25"
+  },
+  "src/main/java/com/exchange/market/PriceUpdateStrategy.java": {
+    "mtime": 1789303230.3017662,
+    "seen": 1789303443.716872,
+    "ast_hash": "4d06c8534acc96579cd1576ff4652763",
+    "semantic_hash": "4d06c8534acc96579cd1576ff4652763"
+  },
+  "src/main/java/com/exchange/market/VolatilityPriceStrategy.java": {
+    "mtime": 1789303237.1107779,
+    "seen": 1789303443.716873,
+    "ast_hash": "a33183b53b030cc10c667e63ff512ffd",
+    "semantic_hash": "a33183b53b030cc10c667e63ff512ffd"
+  },
+  "src/main/java/com/exchange/model/Holding.java": {
+    "mtime": 1789303070.4246116,
+    "seen": 1789303443.716875,
+    "ast_hash": "bb7690b49730787be0003af2abc883b1",
+    "semantic_hash": "bb7690b49730787be0003af2abc883b1"
+  },
+  "src/main/java/com/exchange/model/Portfolio.java": {
+    "mtime": 1789303213.2687695,
+    "seen": 1789303443.716875,
+    "ast_hash": "82c4265cc9fb05bcba4feec0bbf0dd38",
+    "semantic_hash": "82c4265cc9fb05bcba4feec0bbf0dd38"
+  },
+  "src/main/java/com/exchange/model/Stock.java": {
+    "mtime": 1789304580.6328251,
+    "seen": 1789304960.763398,
+    "ast_hash": "f55009c392e9856cb8ed2ab999ea2643",
+    "semantic_hash": "f55009c392e9856cb8ed2ab999ea2643"
+  },
+  "src/main/java/com/exchange/model/Transaction.java": {
+    "mtime": 1789303109.608389,
+    "seen": 1789303443.716877,
+    "ast_hash": "4ad20ccbf46dcd2301be1707bb98acfd",
+    "semantic_hash": "4ad20ccbf46dcd2301be1707bb98acfd"
+  },
+  "src/main/java/com/exchange/model/TransactionType.java": {
+    "mtime": 1789302933.9535625,
+    "seen": 1789303443.716877,
+    "ast_hash": "e1d9f8fc68fc2b43f3149707cd886104",
+    "semantic_hash": "e1d9f8fc68fc2b43f3149707cd886104"
+  },
+  "src/main/java/com/exchange/model/User.java": {
+    "mtime": 1789303224.6220126,
+    "seen": 1789303443.7168782,
+    "ast_hash": "544afe2417acbc05d8dc1a6247a997f2",
+    "semantic_hash": "544afe2417acbc05d8dc1a6247a997f2"
+  },
+  "src/main/java/com/exchange/persistence/CsvPersistenceService.java": {
+    "mtime": 1789303285.725173,
+    "seen": 1789303443.7168782,
+    "ast_hash": "22d0466e827f964447133a88ab7354b4",
+    "semantic_hash": "22d0466e827f964447133a88ab7354b4"
+  },
+  "src/main/java/com/exchange/persistence/PersistenceService.java": {
+    "mtime": 1789303275.044649,
+    "seen": 1789303443.7168791,
+    "ast_hash": "0bed1f3db7bf3971f1513c0769477985",
+    "semantic_hash": "0bed1f3db7bf3971f1513c0769477985"
+  },
+  "src/main/java/com/exchange/ui/ConsoleUI.java": {
+    "mtime": 1789303311.7248216,
+    "seen": 1789303443.7168798,
+    "ast_hash": "55fbeef2c02f1ad970b858555faf858c",
+    "semantic_hash": "55fbeef2c02f1ad970b858555faf858c"
+  },
+  "src/main/java/com/exchange/ui/TextTableFormatter.java": {
+    "mtime": 1789304705.8685465,
+    "seen": 1789304960.763552,
+    "ast_hash": "1bac4968b557a8dbfb2451e4350cf339",
+    "semantic_hash": "1bac4968b557a8dbfb2451e4350cf339"
+  },
+  "src/test/java/com/exchange/TradingPlatformTest.java": {
+    "mtime": 1789304836.3062046,
+    "seen": 1789304960.7636878,
+    "ast_hash": "8cdf332aa1df240c274e07fa910a4363",
+    "semantic_hash": "8cdf332aa1df240c274e07fa910a4363"
+  },
+  "run.sh": {
+    "mtime": 1789303948.9345481,
+    "seen": 1789304266.838349,
+    "ast_hash": "c1ed299300338563782ce913f51df21e",
+    "semantic_hash": "c1ed299300338563782ce913f51df21e"
+  },
+  "src/main/java/com/exchange/ui/gui/GuiTheme.java": {
+    "mtime": 1789304215.2038894,
+    "seen": 1789304266.838872,
+    "ast_hash": "da155d84992b9a29a6bc31543f68de5c",
+    "semantic_hash": "da155d84992b9a29a6bc31543f68de5c"
+  },
+  "src/main/java/com/exchange/ui/gui/HoldingsTablePanel.java": {
+    "mtime": 1789304078.507955,
+    "seen": 1789304266.8388731,
+    "ast_hash": "5a678463249f8742449c48751667e0c0",
+    "semantic_hash": "5a678463249f8742449c48751667e0c0"
+  },
+  "src/main/java/com/exchange/ui/gui/MarketWatchPanel.java": {
+    "mtime": 1789304626.4262211,
+    "seen": 1789304960.763607,
+    "ast_hash": "92fac132826aee3ec9f2a66bfab91dab",
+    "semantic_hash": "92fac132826aee3ec9f2a66bfab91dab"
+  },
+  "src/main/java/com/exchange/ui/gui/MetricsHeaderPanel.java": {
+    "mtime": 1789304684.710482,
+    "seen": 1789304960.763608,
+    "ast_hash": "934844d03cbdded40255fb51f3189253",
+    "semantic_hash": "934844d03cbdded40255fb51f3189253"
+  },
+  "src/main/java/com/exchange/ui/gui/OrderTicketPanel.java": {
+    "mtime": 1789304181.2270374,
+    "seen": 1789304266.8388748,
+    "ast_hash": "1cd099e5928c2af5c9dab427be1cf469",
+    "semantic_hash": "1cd099e5928c2af5c9dab427be1cf469"
+  },
+  "src/main/java/com/exchange/ui/gui/TradingDashboardFrame.java": {
+    "mtime": 1789304187.9058633,
+    "seen": 1789304266.838876,
+    "ast_hash": "1317bf68ed346464a1fee0d4b857fbf3",
+    "semantic_hash": "1317bf68ed346464a1fee0d4b857fbf3"
+  },
+  "src/main/java/com/exchange/ui/gui/TransactionLedgerPanel.java": {
+    "mtime": 1789304195.7070649,
+    "seen": 1789304266.838876,
+    "ast_hash": "ef2f0bad27e442d51d86d085281e428e",
+    "semantic_hash": "ef2f0bad27e442d51d86d085281e428e"
+  },
+  "src/main/java/com/exchange/market/RealWorldPriceStrategy.java": {
+    "mtime": 1789304596.7193015,
+    "seen": 1789304960.7633212,
+    "ast_hash": "4a3f1fa62c83cb3b037ef56981813107",
+    "semantic_hash": "4a3f1fa62c83cb3b037ef56981813107"
+  },
+  "src/main/java/com/exchange/model/Sector.java": {
+    "mtime": 1789304923.1140468,
+    "seen": 1789304960.763396,
+    "ast_hash": "96000da6b76f82b53bc7937571ff95c2",
+    "semantic_hash": "96000da6b76f82b53bc7937571ff95c2"
+  }
+}

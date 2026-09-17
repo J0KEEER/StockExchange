@@ -1,0 +1,8 @@
+com.exchange
+com.exchange.engine
+com.exchange.exception
+com.exchange.market
+com.exchange.model
+com.exchange.persistence
+com.exchange.ui
+com.exchange.ui.gui

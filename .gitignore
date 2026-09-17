@@ -1,0 +1,9 @@
+# Build outputs
+bin/
+*.class
+
+# macOS metadata
+.DS_Store
+
+# Session state files (optional to ignore or keep)
+# data/*.csv
